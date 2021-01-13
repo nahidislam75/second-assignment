@@ -1,0 +1,15 @@
+.big-font{
+    font-size: 75px;
+}
+.card-borders{
+    border: 0;
+    border-radius: 30px;
+}
+.for-all-button{
+    height: 65px;
+    width: 180px;
+    background-color: rgb(3, 3, 65);
+    border-radius: 10px;
+    color: white;
+    font-size: larger;
+}
