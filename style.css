@@ -8,8 +8,16 @@
 .for-all-button{
     height: 65px;
     width: 180px;
-    background-color: rgb(3, 3, 65);
+    background-color: rgb(37, 32, 68) ;
     border-radius: 10px;
     color: white;
     font-size: larger;
+}
+.for-background{
+    background-color: rgb(245, 207, 213);
+}
+.for-footer{
+    background-color: white;
+    border: 0;
+    border-radius: 30px;
 }
